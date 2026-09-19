@@ -1,0 +1,12 @@
+{
+  "project": "elmotawahash-store",
+  "walletNumber": "01010192817",
+  "adminEmails": [
+    "ضع-جيميل-المشرف-هنا@example.com"
+  ],
+  "googleLogin": true,
+  "cashVerification": {
+    "automatic": false,
+    "note": "قراءة رسائل المحفظة تلقائياً تحتاج مزود SMS/Wallet API أو Webhook على خادم آمن. لا يمكن لموقع HTML/JS في المتصفح قراءة رسائل المحفظة الخاصة بالموبايل."
+  }
+}
